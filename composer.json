@@ -1,0 +1,25 @@
+{
+  "name": "kubomikita/events",
+  "description": "Events extension for Nette Framework",
+  "homepage": "http://www.jakubmikita.sk",
+  "type": "library",
+  "license": [
+    "BSD-3-Clause",
+    "GPL-2.0",
+    "GPL-3.0"
+  ],
+  "authors": [
+    {
+      "name": "Jakub Mikita",
+      "homepage": "http://www.jakubmikita.sk"
+    }
+  ],
+  "require": {
+    "php": ">=7.0.0"
+  },
+  "autoload": {
+    "classmap": [
+      "src/"
+    ]
+  }
+}
